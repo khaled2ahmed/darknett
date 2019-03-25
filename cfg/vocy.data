@@ -1,0 +1,5 @@
+classes= 20
+train  = /content/darknett/train.txt
+valid  = //content/darknett/2007_test.txt
+names = data/voc.names
+backup = backup
