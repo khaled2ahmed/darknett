@@ -1,5 +1,5 @@
 classes=4
-train  = /content/darknett/train.txt
-valid  = /content/darknett/test.txt
+train  = /content/darknett/train2.txt
+valid  = /content/darknett/test2.txt
 names = /content/darknett/cfg/flir.names
 backup = backup
