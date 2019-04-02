@@ -1,5 +1,5 @@
 classes=4
-train  = /content/darknett/gdrive/My Drive/flir dataset/flir_dataset/train/Images/training.txt
-valid  = /content/darknett/gdrive/My Drive/flir dataset/flir_dataset/Validation/Images/validation.txt
+train  = /content/darknett/gdrive/My Drive/GP_COLAB/Data set/train.txt
+valid  = /content/darknett/gdrive/My Drive/GP_COLAB/Data set/test.txt
 names = /content/darknett/cfg/flir.names
 backup = backup
